@@ -1,0 +1,6 @@
+include(default)
+
+[build_requires]
+cmake_installer/[*]@conan/stable
+ninja_installer/[*]@bincrafters/stable
+
