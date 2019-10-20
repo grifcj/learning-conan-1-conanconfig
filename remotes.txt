@@ -1,2 +1,2 @@
-conan-center   https://conan.bintray.com                       true
-learning       https://api.bintray.com/conan/grifcj/learning   true
+conan-center   https://conan.bintray.com                       True
+learning       https://api.bintray.com/conan/grifcj/learning   True
