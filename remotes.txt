@@ -1,0 +1,2 @@
+conan-center   https://conan.bintray.com                       true
+learning       https://api.bintray.com/conan/grifcj/learning   true
